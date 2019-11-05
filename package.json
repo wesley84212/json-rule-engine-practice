@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/wesley84212/json-rule-engine-practice/issues"
   },
-  "homepage": "https://github.com/wesley84212/json-rule-engine-practice#readme"
+  "homepage": "https://github.com/wesley84212/json-rule-engine-practice#readme",
+  "dependencies": {
+    "typescript": "^3.6.4"
+  }
 }
